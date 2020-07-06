@@ -1,0 +1,24 @@
+body {
+  background: radial-gradient(circle, rgb(169, 127, 181) 15%, rgb(98, 153, 109) 73%, rgb(109, 136, 179) 90%);
+}
+iframe[src="https://www.youtube.com/embed/kxbjRe5_T9U"] {
+  border: 3px solid black;
+}
+.title {
+  font-size: 1cm;
+}
+.body-text {
+  font-size: 0.40cm;
+}
+#first-page:link {
+  color: blue;
+}
+#first-page:visited {
+  color: black;
+}
+#jt-image:link {
+  color: blue;
+}
+#jt-image:visited {
+  color: black;
+}

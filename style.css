@@ -1,0 +1,19 @@
+body {
+  background: radial-gradient(circle, rgb(169, 127, 181) 15%, rgb(98, 153, 109) 73%, rgb(109, 136, 179) 90%);
+}
+
+img[src="https://pbs.twimg.com/media/CwC5L0-UEAAMcMe.jpg"] {
+  border: 7.5px solid black;
+}
+.title {
+  font-size: 1cm;
+}
+.body-text {
+  font-size: 0.40cm;
+}
+#second-page:link {
+  color: blue;
+}
+#second-page:visited {
+  color: black;
+}
